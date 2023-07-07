@@ -1,0 +1,22 @@
+.cardlist-flex{
+     
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+   }
+
+.cards{
+     
+     display: flex;
+     justify-content: center;
+     gap: 20px;
+     flex-wrap: wrap;
+     margin: 20px;
+     background: rgb(245, 243, 243);
+     border-radius: 10px;
+     width: 85%;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     
+   
+   }
